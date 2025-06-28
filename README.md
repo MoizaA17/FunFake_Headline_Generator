@@ -1,4 +1,4 @@
-# 😂 Funny Fake News Headline Generator
+# 😂 FunFake News Headline Generator
 
 This Python project randomly generates hilarious fake news headlines using Pakistani humor, situations, and characters.
 
