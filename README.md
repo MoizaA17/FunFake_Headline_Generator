@@ -13,4 +13,6 @@ This Python project randomly generates hilarious fake news headlines using Pakis
 ## 🚀 How to Run
 ```bash
 python main_file.py
-
+```
+## 📸 Sample Output
+![Sample Output](https://github.com/MoizaA17/FunFake_Headline_Generator/blob/main/FunFake%20Headline.png)
